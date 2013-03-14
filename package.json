@@ -32,7 +32,12 @@
     {
       "name": "Curtis Lacy",
       "email": "curtis.lacy@ldengine.com"
-    }
+    },
+	{
+	  "name": "Brian Partridge",
+	  "email:" "contact@brianpartridge.com",
+	  "url": "http://brianpartridge.com"
+	}
   ],
   "version": "0.8.89-1",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
